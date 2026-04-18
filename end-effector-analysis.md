@@ -19,7 +19,7 @@ title: 末端执行器信息提取
 
 ## 图片
 
-![工业机器人吸附式末端执行器](./assets/images/end-effector-source.jpg)
+![工业机器人吸附式末端执行器 / Industrial robot vacuum end-effector](./assets/images/end-effector-source.jpg)
 
 ## 结构化输出（JSON）
 
