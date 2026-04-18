@@ -19,7 +19,9 @@ title: 末端执行器信息提取
 
 ## 图片
 
-![工业机器人吸附式末端执行器](./assets/images/end-effector-source.jpg)
+> 说明：当前页面按会话中的原图引用 `./assets/images/end-effector-source.jpg`。若仓库尚未上传该图片，请将原图放到此路径以正常显示。
+
+![橙色工业机器人配备真空吸附夹具，正在操作黑色条状或板状工件](./assets/images/end-effector-source.jpg)
 
 ## 结构化输出（JSON）
 
