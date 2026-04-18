@@ -1,3 +1,8 @@
+---
+layout: default
+title: 末端执行器信息提取
+---
+
 # 末端执行器信息提取
 
 ## 图像描述（末端执行器）
@@ -14,7 +19,7 @@
 
 ## 图片
 
-![工业机器人末端执行器（吸附夹具）在产线工位执行取放作业](./assets/images/end-effector-source.jpg)
+![工业机器人吸附式末端执行器](./assets/images/end-effector-source.jpg)
 
 ## 结构化输出（JSON）
 
